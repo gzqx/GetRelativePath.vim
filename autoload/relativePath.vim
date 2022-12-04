@@ -1,5 +1,5 @@
 "get relative path of the file under cursor
-function! GetRelativePath()
+function! relativePath#GetRelativePath()
   let s:uri = expand('<cfile>')
   let s:cwd = getcwd()
   if s:uri != ''

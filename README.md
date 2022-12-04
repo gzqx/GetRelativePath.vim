@@ -1,7 +1,7 @@
 # GetRelativePath
 
 # Purpose
-A small plugin to replace the absolute path under cursor with relative path. This can be useful when syncing directories between multiple devices (vimiki+syncthing for example).
+A small plugin to replace the absolute path under cursor with relative path. This can be useful when syncing directories between multiple devices (vimwiki+syncthing for example).
 
 Only contains one command:
 ```
